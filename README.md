@@ -3,7 +3,13 @@
 ## instrukcje
 
 * powp-lab-adapter.pdf - Zapoznanie z projektem i warianty wzorca *adapter*
-* powp-lab-command.pdf - Zastosowanie wzorca *command* i innych...
+<!--* powp-lab-command.pdf - Zastosowanie wzorca *command* i innych...-->
+
+## dokumentacja do bibliotek 
+
+* [Drawer](http://coach.kis.p.lodz.pl/powp-libs-docs/Drawer/)
+* [Jobs2dMagic](http://coach.kis.p.lodz.pl/powp-libs-docs/Jobs2dMagic/)
+* [PowpAppBase](http://coach.kis.p.lodz.pl/powp-libs-docs/PowpAppBase/)
 
 ## ogólne zasady oceny pracy na laboratoriach
 
@@ -13,3 +19,4 @@ Za zgłoszone w terminie rozwiązanie pojedynczej instrukcji można dostać max.
 Dodatkowe punkty mogą być przyznane za zadania z gwiazdką.
 Za każdy tydzień opóźnienia maksymalna liczba punktów zmniejsza się o jeden.
 Więcej obowiązujących informacji dotyczących pracy z repozytorium znajduje się w instrukcjach.
+
