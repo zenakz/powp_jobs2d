@@ -1,4 +1,4 @@
-package edu.kis.powp.jobs2d.drivers;
+package edu.kis.powp.jobs2d;
 
 import edu.kis.powp.jobs2d.Job2dDriver;
 import edu.kis.powp.jobs2d.magicpresets.FiguresJoe;
