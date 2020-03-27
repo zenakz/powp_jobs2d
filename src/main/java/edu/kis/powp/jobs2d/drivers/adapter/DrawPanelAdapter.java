@@ -36,4 +36,5 @@ public class DrawPanelAdapter extends DrawPanelController implements Job2dDriver
 	public String toString() {
 		return "Draw Panel Simulator";
 	}
+	
 }
